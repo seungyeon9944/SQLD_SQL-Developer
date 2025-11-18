@@ -1,6 +1,9 @@
 ### 3. DDL
-
 Data Definition Language, 데이터 정의
+
+✏️ *DDL은 기본적으로 **롤백(Rollback) 안됨** ㅜㅜ!!!! 실행 직후 **자동으로 커밋(Auto-Commit)** 됨* 
+
+✏️ ***묵시적 커밋**은 DDL의 특징*
 
 데이터 타입
 
